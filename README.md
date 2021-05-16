@@ -1,6 +1,10 @@
 # flutter_homework_basic
 
-A new Flutter project.
+1.การ reuse component
+2.สร้าง utils ไฟล์ ไว้เก็บ constant ไปยังทุก component ได้
+3.รับ paramer จาก อีกไฟล์ ส่งไปยัง statefulWidget
+4.การใช้ Row Comlumn Expand layout
+5.การใช้ InkWell ทำ Effect ปุ่มกด
 
 ## Getting Started
 
